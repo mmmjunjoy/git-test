@@ -6,15 +6,11 @@ def math():
   a =0
   b =1
 
-  #추가1
+  #main 추가 
 
-  c =0
-
-  #추가2
-
-  d = 0
-
-  #추가3
+  #temp1
+  #temp2
+  #temp3
 
   e = 0
 
