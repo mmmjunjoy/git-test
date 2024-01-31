@@ -21,7 +21,7 @@ def math():
   #temp3
 
   e = 0
-
+  main =100
   print(a+b)
   return a+b
 
